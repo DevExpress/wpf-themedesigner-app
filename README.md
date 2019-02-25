@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-<a href="https://docs.devexpress.com/WpfThemeDesigner/118707/index">Documentation</a> | <a href="https://www.devexpress.com/Products/NET/Controls/WPF/Themes/">Website</a> | <a href="TODO!">Changelog</a>
+<a href="https://docs.devexpress.com/WpfThemeDesigner/118707/index">Documentation</a> | <a href="https://www.devexpress.com/Products/NET/Controls/WPF/Themes/">Website</a>
 </p>
 
 <p align="center">
