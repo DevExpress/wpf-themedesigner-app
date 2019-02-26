@@ -1,7 +1,5 @@
 <h1 align="center">
-    <a href="https://devexpress.github.io/testcafe">
         <img src="media/ThemeDesignerLogo.gif" width=50% alt="DevExpress WPF Theme Designer" />
-    </a>
 </h1>
 
 <p align="center">
