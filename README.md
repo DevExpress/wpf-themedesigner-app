@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<a href="https://docs.devexpress.com/WpfThemeDesigner/118707/index">Documentation</a> | <a href="https://www.devexpress.com/Products/NET/Controls/WPF/Themes/">Website</a>
+<a href="https://docs.devexpress.com/WpfThemeDesigner/118707/index">Documentation</a> | <a href="https://www.devexpress.com/Products/NET/Controls/WPF/Themes/">Website</a> | <a href="CHANGELOG.md">Changelog</a>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 ## Overview
 The DevExpress WPF Theme Designer was designed to reduce the grunt work associated with custom app-wide theme development. It is a free standalone tool that allows you to generate custom themes by altering the base colors of existing DevExpress WPF Themes.
 
-[![video thumbnail](media/youtube-video-thumbnail.png)](https://www.youtube.com/watch?v=c5HJj8UXp8g)
+[![WPF Theme Designer YouTube video](media/youtube-video-thumbnail.png)](https://www.youtube.com/watch?v=c5HJj8UXp8g)
 
 ## Features
 * [Theme Customization](https://docs.devexpress.com/WpfThemeDesigner/119320/workspace/tools) <br/> The Theme Designer offers a number of features designed to improve your editing experience. Pick colors from any on-screen application, filter element colors and use other new tools to easily colorize any visual element of your application.
