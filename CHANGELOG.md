@@ -1,25 +1,26 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [Unreleased]
-### Added
-
-### Changed
-
-### Removed
-
-## [ReleaseNumber] - {ReleaseDate (YY-MM-DD)}
-### Added
-
-### Changed
-
-### Removed
+## Theme Designer 19.1 - 2019-03-07
 
 
-## [PreviousReleaseNumber] - {PreviousReleaseDate (YY-MM-DD)}
-### Added
+### New Features
 
-### Changed
+* Incremental build.
 
-### Removed
+* Output window now can display the  **Build Output**, **Preview Output**, and **Logs**.
 
+    <img src="media/Changelogs/19.1-output-window.png" width="50%"/>
+
+
+### Enhancements
+
+* Resolve Merge Conflicts - you can choose a file version without using the KDiff3 tool.
+
+    <img src="media/Changelogs/19.1-resolve-merge-take-mine.png" width="50%"/>
+
+* New **Show in Explorer** and **Copy Path** items in the CodeView window's context menu.
+
+    <img src="media/Changelogs/19.1-showinexplorer-and-copy-path-menu-items.png" width="50%"/>
+
+* Application layout has changed to the borderless.
