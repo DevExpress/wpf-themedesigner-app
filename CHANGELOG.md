@@ -15,6 +15,8 @@ All notable changes to this project will be documented in this file.
 
 ### Enhancements
 
+* Application layout has changed to the borderless.
+
 * Resolve Merge Conflicts - you can choose a file version without using the KDiff3 tool.
 
     <img src="media/Changelogs/19.1-resolve-merge-take-mine.png" width="50%" alt="Theme Designer 19.1 - Resolve Merge Conflicts"/>
@@ -22,5 +24,3 @@ All notable changes to this project will be documented in this file.
 * New **Show in Explorer** and **Copy Path** items in the CodeView window's context menu.
 
     <img src="media/Changelogs/19.1-showinexplorer-and-copy-path-menu-items.png" width="50%" alt="Theme Designer 19.1 - New CodeView Menu Items"/>
-
-* Application layout has changed to the borderless.
