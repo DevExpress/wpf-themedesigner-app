@@ -17,7 +17,7 @@ All notable changes to this project will be documented in this file.
 
 * Application layout has changed to the borderless.
 
-* Theme Designer remembers opened files in a theme and opens these files after you reopen the theme.
+* When you close a theme solution, Theme Designer remembers the files you had open previously and restores them when you re-open the theme solution.
 
 * Resolve Merge Conflicts - you can choose a file version without using the KDiff3 tool.
 
