@@ -15,9 +15,11 @@ This file lists all the notable changes to this project.
 
 ### Enhancements
 
+* When you close a theme solution, the Theme Designer remembers the files you had open previously and restores them when you re-open the theme solution.
+
 * The application's layout has changed to borderless.
 
-* When you close a theme solution, the Theme Designer remembers the files you had open previously and restores them when you re-open the theme solution.
+    <img src="media/Changelogs/19.1-borderless-layout.png" width="50%" alt="Theme Designer 19.1 - Borderless Layout"/>
 
 * Resolve Merge Conflicts - you do not need to use the KDiff3 tool to choose a file version.
 
