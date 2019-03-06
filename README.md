@@ -41,4 +41,4 @@ Download and install the WPF Theme Designer, then [get started](https://docs.dev
 
 ## Get Help
 
-You can ask any questions in our [Support Center](https://www.devexpress.com/Support/Center) or [Online Chat](https://www.devexpress.com/).
+You can ask any question in our [Support Center](https://www.devexpress.com/Support/Center) or [Online Chat](https://www.devexpress.com/).
