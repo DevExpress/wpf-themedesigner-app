@@ -17,6 +17,8 @@ All notable changes to this project will be documented in this file.
 
 * Application layout has changed to the borderless.
 
+* Theme Designer remembers opened files in a theme and opens these files after you reopen the theme.
+
 * Resolve Merge Conflicts - you can choose a file version without using the KDiff3 tool.
 
     <img src="media/Changelogs/19.1-resolve-merge-take-mine.png" width="50%" alt="Theme Designer 19.1 - Resolve Merge Conflicts"/>
