@@ -28,3 +28,7 @@ This file lists all the notable changes to this project.
 * New **Show in Explorer** and **Copy Path** items in the CodeView window's context menu.
 
     <img src="media/Changelogs/19.1-showinexplorer-and-copy-path-menu-items.png" width="50%" alt="Theme Designer 19.1 - New CodeView Menu Items"/>
+
+* Visual Studio-Inspired syntax highlighting.
+
+    <img src="media/Changelogs/19.1-code-view-code-highlighting.png" width="50%" alt="Theme Designer 19.1 - New CodeView Syntax Highlighting"/>
