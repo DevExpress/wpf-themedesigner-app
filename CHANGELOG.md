@@ -10,7 +10,7 @@ This file lists all the notable changes to this project.
 
 * Apply the current theme's predefined palettes.
 
-    <img src="media/Changelogs/19.1.2-Ribbon.png" width="50%" alt="Theme Designer 19.1.2 - Ribbon"/>
+    <img src="media/Changelogs/19.1.2-Ribbon-2x.png" width="50%" alt="Theme Designer 19.1.2 - Ribbon"/>
 
 ## Theme Designer 19.1.1 - 2019-03-07
 
