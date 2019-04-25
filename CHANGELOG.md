@@ -6,9 +6,9 @@ This file lists all the notable changes to this project.
 
 ### New Features
 
-* Export the theme palette class as the .cs file. 
+* Export your customized theme palette to a .cs file.
 
-* Apply the current theme's predefined palettes.
+* Apply a predefined palette available in the currently edited theme.
 
     <img src="media/Changelogs/19.1.2-Ribbon-2x.png" width="50%" alt="Theme Designer 19.1.2 - Ribbon"/>
 
