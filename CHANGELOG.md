@@ -6,11 +6,17 @@ This file lists all the notable changes to this project.
 
 ### New Features
 
-* Export your customized theme palette to a .cs file.
+* You can use your custom theme as a base for new themes. Refer to the WPF Palette topic for more information.
 
-* Apply a predefined palette available in the currently edited theme.
+* Export your current theme palette to a .cs file.
 
-    <img src="media/Changelogs/19.1.2-Ribbon-2x.png" width="50%" alt="Theme Designer 19.1.2 - Ribbon"/>
+    <img src="media/Changelogs/19.1.2-Ribbon-2x.png" width="50%" alt="Theme Designer 19.1.2 - Export Theme to a .cs file"/>
+    
+* Apply a predefined palette available in the current theme.
+
+    <img src="media/Changelogs/19.1.2-Ribbon-2x-Palettes.png" width="50%" alt="Theme Designer 19.1.2 - Predefined Palette List"/>
+
+    
 
 ## Theme Designer 19.1.1 - 2019-03-07
 
