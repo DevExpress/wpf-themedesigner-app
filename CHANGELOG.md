@@ -1,6 +1,22 @@
 # Changelog
 This file lists all the notable changes to this project.
 
+## Theme Designer 19.1.2 - 2019-04-26
+
+
+### New Features
+
+* You can create new themes based on your custom theme at runtime. Refer to the <a href="https://docs.devexpress.com/WPF/400728" target="_blank">WPF Palettes</a> topic for more information.
+
+* Export your current theme palette to a .cs file.
+
+    <img src="media/Changelogs/19.1.2-Ribbon-2x.png" width="50%" alt="Theme Designer 19.1.2 - Export Theme to a .cs file"/>
+    
+* Apply a predefined palette available in the current theme.
+
+    <img src="media/Changelogs/19.1.2-Ribbon-2x-Palettes.png" width="50%" alt="Theme Designer 19.1.2 - Predefined Palette List"/>
+
+    
 ## Theme Designer 19.1.1 - 2019-03-22
 
 
