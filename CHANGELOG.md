@@ -6,7 +6,7 @@ This file lists all the notable changes to this project.
 
 ### New Features
 
-* You can use your custom theme as a base for new themes created in runtime. Refer to the <a href="https://docs.devexpress.com/WPF/400728" target="_blank">WPF Palettes</a> topic for more information.
+* You can create new themes based on your custom theme at runtime. Refer to the <a href="https://docs.devexpress.com/WPF/400728" target="_blank">WPF Palettes</a> topic for more information.
 
 * Export your current theme palette to a .cs file.
 
