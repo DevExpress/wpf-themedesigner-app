@@ -17,7 +17,6 @@ This file lists all the notable changes to this project.
     <img src="media/Changelogs/19.1.2-Ribbon-2x-Palettes.png" width="50%" alt="Theme Designer 19.1.2 - Predefined Palette List"/>
 
     
-
 ## Theme Designer 19.1.1 - 2019-03-22
 
 
