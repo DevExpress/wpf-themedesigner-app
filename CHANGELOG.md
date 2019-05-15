@@ -1,8 +1,17 @@
 # Changelog
 This file lists all the notable changes to this project.
 
-## Theme Designer 19.1.2 - 2019-04-26
+## Theme Designer 19.1.3 - 2019-05-20
 
+### Fixed Issues
+
+* The *TiketNumber* issue fixed.
+
+### Enhancements
+
+* The 'Palette' button in the 'Palette' ribbon tab renamed to 'Import'.
+
+## Theme Designer 19.1.2 - 2019-04-26
 
 ### New Features
 
