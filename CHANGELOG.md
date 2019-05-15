@@ -9,7 +9,7 @@ This file lists all the notable changes to this project.
 
 ### Enhancements
 
-* The 'Palette' button in the 'Palette' ribbon tab renamed to 'Import'.
+* The 'Palette' button in the Palette ribbon tab renamed to 'Import'.
 
 ## Theme Designer 19.1.2 - 2019-04-26
 
