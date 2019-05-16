@@ -5,7 +5,7 @@ This file lists all the notable changes to this project.
 
 ### Changes
 
-* The 'Palette' button in the Palette ribbon tab renamed to 'Import'.
+* The 'Palettes' button in the Palette ribbon tab renamed to 'Import'.
 
     <img src="media/Changelog/19.1.3-Ribbon-Palette-Tab-2x.png" width="50%" alt="Theme Designer 19.1.3 - Ribbon Palette Tab"/>
 
