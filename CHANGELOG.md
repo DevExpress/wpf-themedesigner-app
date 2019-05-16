@@ -7,7 +7,7 @@ This file lists all the notable changes to this project.
 
 * The 'Palette' button in the Palette ribbon tab renamed to 'Import'.
 
-    <img src="media/changelog/19.1.3-Ribbon-Palette-Tab-2x.png" width="50%" alt="Theme Designer 19.1.3 - Ribbon Palette Tab"/>
+    <img src="media/Changelog/19.1.3-Ribbon-Palette-Tab-2x.png" width="50%" alt="Theme Designer 19.1.3 - Ribbon Palette Tab"/>
 
 ### Enhancements
 
@@ -21,11 +21,11 @@ This file lists all the notable changes to this project.
 
 * Export your current theme palette to a .cs file.
 
-    <img src="media/changelog/19.1.2-Ribbon-2x.png" width="50%" alt="Theme Designer 19.1.2 - Export Theme to a .cs file"/>
+    <img src="media/Changelog/19.1.2-Ribbon-2x.png" width="50%" alt="Theme Designer 19.1.2 - Export Theme to a .cs file"/>
     
 * Apply a predefined palette available in the current theme.
 
-    <img src="media/changelog/19.1.2-Ribbon-2x-Palettes.png" width="50%" alt="Theme Designer 19.1.2 - Predefined Palette List"/>
+    <img src="media/Changelog/19.1.2-Ribbon-2x-Palettes.png" width="50%" alt="Theme Designer 19.1.2 - Predefined Palette List"/>
 
     
 ## Theme Designer 19.1.1 - 2019-03-22
@@ -37,7 +37,7 @@ This file lists all the notable changes to this project.
 
 * The Output window now can display the  **Build Output**, **Preview Output**, and **Logs**.
 
-    <img src="media/changelog/19.1-output-window.png" width="50%" alt="Theme Designer 19.1 - Output Window"/>
+    <img src="media/Changelog/19.1-output-window.png" width="50%" alt="Theme Designer 19.1 - Output Window"/>
 
 
 ### Enhancements
@@ -46,16 +46,16 @@ This file lists all the notable changes to this project.
 
 * The application's layout has changed to borderless.
 
-    <img src="media/changelog/19.1-borderless-layout.png" width="50%" alt="Theme Designer 19.1 - Borderless Layout"/>
+    <img src="media/Changelog/19.1-borderless-layout.png" width="50%" alt="Theme Designer 19.1 - Borderless Layout"/>
 
 * Resolve Merge Conflicts - you do not need to use the KDiff3 tool to choose a file version.
 
-    <img src="media/changelog/19.1-resolve-merge-take-mine.png" width="50%" alt="Theme Designer 19.1 - Resolve Merge Conflicts"/>
+    <img src="media/Changelog/19.1-resolve-merge-take-mine.png" width="50%" alt="Theme Designer 19.1 - Resolve Merge Conflicts"/>
 
 * New **Show in Explorer** and **Copy Path** items in the CodeView window's context menu.
 
-    <img src="media/changelog/19.1-showinexplorer-and-copy-path-menu-items.png" width="50%" alt="Theme Designer 19.1 - New CodeView Menu Items"/>
+    <img src="media/Changelog/19.1-showinexplorer-and-copy-path-menu-items.png" width="50%" alt="Theme Designer 19.1 - New CodeView Menu Items"/>
 
 * Visual Studio-Inspired syntax highlighting.
 
-    <img src="media/changelog/19.1-code-view-code-highlighting.png" width="50%" alt="Theme Designer 19.1 - New CodeView Syntax Highlighting"/>
+    <img src="media/Changelog/19.1-code-view-code-highlighting.png" width="50%" alt="Theme Designer 19.1 - New CodeView Syntax Highlighting"/>
