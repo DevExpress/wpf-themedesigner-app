@@ -1,8 +1,19 @@
 # Changelog
 This file lists all the notable changes to this project.
 
-## Theme Designer 19.1.2 - 2019-04-26
+## Theme Designer 19.1.3 - 2019-05-17
 
+### Changes
+
+* The 'Palettes' button in the Palette ribbon tab renamed to 'Import'.
+
+    <img src="media/Changelog/19.1.3-Ribbon-Palette-Tab-2x.png" width="50%" alt="Theme Designer 19.1.3 - Ribbon Palette Tab"/>
+
+### Enhancements
+
+* Internal enhancements and bug fixes.
+
+## Theme Designer 19.1.2 - 2019-04-26
 
 ### New Features
 
