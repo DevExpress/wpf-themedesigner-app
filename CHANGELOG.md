@@ -1,6 +1,12 @@
 # Changelog
 This file lists all the notable changes to this project.
 
+## Theme Designer 19.1.4 - 2019-05-27
+
+### Bug Fixes
+
+* <a href="https://www.devexpress.com/Support/Center/Question/Details/T743008/theme-designer-cannot-upgrade-a-theme-because-the-x-namespace-prefix-is-not-defined-in">T743008</a> - Theme Designer cannot upgrade a theme because the 'x' namespace prefix is not defined in certain files.
+
 ## Theme Designer 19.1.3 - 2019-05-17
 
 ### Changes
