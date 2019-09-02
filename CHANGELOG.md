@@ -15,7 +15,9 @@ This file lists all the notable changes to this project.
 
 * The **Ignore System DPI** tool ignores the system's scaling value and allows you to display the preview with 100% scale. 
 
-* The **Reset Layout** tool allows you to reset the Theme Designer application layout to the default.
+### Bug Fixes
+
+* <a href="https://www.devexpress.com/Support/Center/Question/Details/T754663/theme-designer-the-preview-window-is-corrupted-when-the-custom-theme-name-is">T754663</a> - Theme Designer - The preview window is corrupted when the custom theme name is Office2019Colorful.
 
 
 ### Enhancements
@@ -28,10 +30,6 @@ This file lists all the notable changes to this project.
 
     **IMAGE**
 
-* Hold `Shift` and `scroll Mouse Wheel` to scroll the Preview **horizontally**. 
-
-    **GIF**
-
 ### Changes
 
 * The **Filter Colors** tool now displays only the colors the **selected element** uses. You can select an element using the Inspect Element tool or with the **Visual Tree Window**.
@@ -39,6 +37,9 @@ This file lists all the notable changes to this project.
 * Theme Designer now uses the Ribbon's Simplified mode.
 
     **IMAGE**
+
+* The **Reset Layout** tool is moved to the Home ribbon tab.
+* The **Views** ribbon tab is converted to the drop-down button and moved to the Home ribbon tab.
 
 ## Theme Designer 19.1.4 - 2019-05-27
 
