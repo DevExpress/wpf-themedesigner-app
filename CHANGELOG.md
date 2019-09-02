@@ -17,12 +17,12 @@ This file lists all the notable changes to this project.
 
 ### Bug Fixes
 
-* <a href="https://www.devexpress.com/Support/Center/Question/Details/T754663/theme-designer-the-preview-window-is-corrupted-when-the-custom-theme-name-is">T754663</a> - Theme Designer - The preview window is corrupted when the custom theme name is Office2019Colorful.
+* <a href="https://www.devexpress.com/Support/Center/Question/Details/T754663/theme-designer-the-preview-window-is-corrupted-when-the-custom-theme-name-is">T754663</a> - The preview window is corrupted when the custom theme name is Office2019Colorful.
 
 
 ### Enhancements
 
-* **View in XAML** tool became the **Inspect Element** tool. With this tool, you can select a UI element to display its properties, XAML code, and its Visual Tree position. 
+* **View in XAML** tool became the **Inspect Element** tool. With the **Inspect Element** tool, you can select a UI element to display its properties, XAML code, and its Visual Tree position. 
 
     **IMAGE**
 
@@ -32,7 +32,7 @@ This file lists all the notable changes to this project.
 
 ### Changes
 
-* The **Filter Colors** tool now displays only the colors the **selected element** uses. You can select an element using the Inspect Element tool or with the **Visual Tree Window**.
+* The **Filter Colors** tool now displays only the colors the **selected element and its children** uses. You can use the Inspect Element tool or the **Visual Tree Window** to select an element.
 
 * Theme Designer now uses the Ribbon's Simplified mode.
 
