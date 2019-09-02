@@ -1,6 +1,45 @@
 # Changelog
 This file lists all the notable changes to this project.
 
+## Theme Designer 19.2.1 - 2019-09-06
+
+### New Features
+
+* The **Visual Tree Window** displays the visual structure of the current preview in the tree view. Refer to the Visual Tree Window documentation topic for more information.
+
+    **IMAGE**
+
+* The **Properties Window** displays the selected element's properties. Refer to the Properties Window documentation topic for more information.
+    
+    **IMAGE**
+
+* The **Ignore System DPI** tool ignores the system's scaling value and allows you to display the preview with 100% scale. 
+
+* The **Reset Layout** tool allows you to reset the Theme Designer application layout to the default.
+
+
+### Enhancements
+
+* **View in XAML** tool became the **Inspect Element** tool. With this tool, you can select a UI element to display its properties, XAML code, and its Visual Tree position. 
+
+    **IMAGE**
+
+* The palette color's tooltips added to the CodeView Window's Intelligent Code Completion.
+
+    **IMAGE**
+
+* Hold `Shift` and `scroll Mouse Wheel` to scroll the Preview **horizontally**. 
+
+    **GIF**
+
+### Changes
+
+* The **Filter Colors** tool now displays only the colors the **selected element** uses. You can select an element using the Inspect Element tool or with the **Visual Tree Window**.
+
+* Theme Designer now uses the Ribbon's Simplified mode.
+
+    **IMAGE**
+
 ## Theme Designer 19.1.4 - 2019-05-27
 
 ### Bug Fixes
