@@ -5,7 +5,7 @@ This file lists all the notable changes to this project.
 
 ### New Features
 
-* The **Visual Tree Window** displays the visual structure of the current preview in the tree view. Refer to the Visual Tree Window documentation topic for more information.
+* The **Visual Tree Window** displays the current preview's visual element structure. Refer to the Visual Tree Window documentation topic for more information.
 
     **IMAGE**
 
