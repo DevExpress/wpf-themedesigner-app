@@ -22,7 +22,7 @@ This file lists all the notable changes to this project.
 
 ### Enhancements
 
-* **View in XAML** tool became the **Inspect Element** tool. The **Inspect Element** tool allows you to select a UI element to display its properties, XAML code, and its position in the Visual Tree.
+* **View in XAML** tool is renamed to the **Inspect Element** tool. The **Inspect Element** tool allows you to select a UI element to display its properties, XAML code, and its position in the Visual Tree.
 
     **IMAGE**
 
