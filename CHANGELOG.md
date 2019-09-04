@@ -13,7 +13,7 @@ This file lists all the notable changes to this project.
     
     **IMAGE**
 
-* The **Ignore System DPI** tool ignores the system's scaling value and allows you to display the preview with 100% scale. 
+* The **Ignore System DPI** tool ignores the system's scaling value and displays the preview with 100% scale. 
 
 ### Bug Fixes
 
@@ -22,11 +22,11 @@ This file lists all the notable changes to this project.
 
 ### Enhancements
 
-* **View in XAML** tool became the **Inspect Element** tool. With the **Inspect Element** tool, you can select a UI element to display its properties, XAML code, and its Visual Tree position. 
+* **View in XAML** tool became the **Inspect Element** tool. The **Inspect Element** tool allows you to select a UI element to display its properties, XAML code, and its position in the Visual Tree.
 
     **IMAGE**
 
-* The palette color's tooltips added to the CodeView Window's Intelligent Code Completion.
+* The palette color's tooltips added to the CodeView Window's Intelligent Code Completion popup window.
 
     **IMAGE**
 
@@ -38,8 +38,8 @@ This file lists all the notable changes to this project.
 
     **IMAGE**
 
-* The **Reset Layout** tool is moved to the Home ribbon tab.
-* The **Views** ribbon tab is converted to the drop-down button and moved to the Home ribbon tab.
+* The **Reset Layout** tool has been moved to the 'Home' ribbon tab.
+* The **Views** ribbon tab has been converted to the drop-down button and moved to the 'Home' ribbon tab.
 
 ## Theme Designer 19.1.4 - 2019-05-27
 
