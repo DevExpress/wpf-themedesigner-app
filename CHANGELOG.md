@@ -20,6 +20,8 @@ This file lists all the notable changes to this project.
 * <a href="https://www.devexpress.com/Support/Center/Question/Details/T754663/theme-designer-the-preview-window-is-corrupted-when-the-custom-theme-name-is">T754663</a> - The preview window is corrupted when the custom theme name is Office2019Colorful.
 
 
+* <a href="https://www.devexpress.com/Support/Center/Question/Details/T719715/theme-designer-preview-is-empty-in-certain-cases">T719715</a> - Theme Designer Preview is empty in certain cases.
+
 ### Enhancements
 
 * **View in XAML** tool is renamed to the **Inspect Element** tool. The **Inspect Element** tool allows you to select a UI element to display its properties, XAML code, and its position in the Visual Tree.
