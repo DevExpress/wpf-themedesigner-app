@@ -7,11 +7,11 @@ This file lists all the notable changes to this project.
 
 * The **Visual Tree Window** displays the current preview's visual element structure. Refer to the Visual Tree Window documentation topic for more information.
 
-    **IMAGE**
+    <img src="media/Changelog/19.2.1-VisualTree-2x.png" width="50%" alt="Theme Designer 19.1.3 - Visual Tree Window"/>
 
 * The **Properties Window** displays the selected element's properties. Refer to the Properties Window documentation topic for more information.
     
-    **IMAGE**
+    <img src="media/Changelog/19.2.1-Properties-2x.png" width="50%" alt="Theme Designer 19.1.3 - Properties Window"/>
 
 * The **Ignore System DPI** tool ignores the system's scaling value and displays the preview with 100% scale. 
 
@@ -24,11 +24,11 @@ This file lists all the notable changes to this project.
 
 * **View in XAML** tool is renamed to the **Inspect Element** tool. The **Inspect Element** tool allows you to select a UI element to display its properties, XAML code, and its position in the Visual Tree.
 
-    **IMAGE**
+    <img src="media/Changelog/19.2.1-inspect-element-tool-2x.gif" width="50%" alt="Theme Designer 19.1.3 - Inspect Element Tool"/>
 
 * The palette color's tooltips added to the CodeView Window's Intelligent Code Completion popup window.
 
-    **IMAGE**
+    <img src="media/Changelog/19.2.1-Code-Completion-2x.png" width="50%" alt="Theme Designer 19.1.3 - Code Completion Enhancement"/>
 
 ### Changes
 
@@ -36,7 +36,7 @@ This file lists all the notable changes to this project.
 
 * Theme Designer now uses the Ribbon's Simplified mode.
 
-    **IMAGE**
+    <img src="media/Changelog/19.2.1-Simplified-Ribbon-2x.png" width="50%" alt="Theme Designer 19.1.3 - Ribbon Simplified Mode"/>
 
 * The **Reset Layout** tool has been moved to the 'Home' ribbon tab.
 * The **Views** ribbon tab has been converted to the drop-down button and moved to the 'Home' ribbon tab.
