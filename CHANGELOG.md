@@ -5,11 +5,11 @@ This file lists all the notable changes to this project.
 
 ### New Features
 
-* The **Visual Tree Window** displays the current preview's visual element structure. Refer to the Visual Tree Window documentation topic for more information.
+* The [Visual Tree Window](http://docs.devexpress.com/WpfThemeDesigner/401169/workspace/visual-tree-window) displays the current preview's visual element structure.
 
     <img src="media/Changelog/19.2.1-VisualTree-2x.png" width="50%" alt="Theme Designer 19.1.3 - Visual Tree Window"/>
 
-* The **Properties Window** displays the selected element's properties. Refer to the Properties Window documentation topic for more information.
+* The [Properties Window](http://docs.devexpress.com/WpfThemeDesigner/401212/workspace/properties-window) displays the selected element's properties.
     
     <img src="media/Changelog/19.2.1-Properties-2x.png" width="50%" alt="Theme Designer 19.1.3 - Properties Window"/>
 
