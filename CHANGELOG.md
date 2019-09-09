@@ -17,8 +17,6 @@ This file lists all the notable changes to this project.
 
 * The **Inspect Element** tool allows you to select a UI element to display its properties, XAML code, and its position in the Visual Tree.
 
-    <img src="media/Changelog/19.2.1-inspect-element-tool-2x.gif" width="50%" alt="Theme Designer 19.1.3 - Inspect Element Tool"/>
-
 ### Bugs Fixed
 
 * <a href="https://www.devexpress.com/Support/Center/Question/Details/T754663/theme-designer-the-preview-window-is-corrupted-when-the-custom-theme-name-is">T754663</a> - The preview window is corrupted when the custom theme name is Office2019Colorful.
