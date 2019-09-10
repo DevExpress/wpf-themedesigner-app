@@ -15,8 +15,6 @@ This file lists all the notable changes to this project.
 
 * The **Ignore System DPI** tool ignores the system's scaling value and displays the preview with 100% scale. 
 
-* The **Inspect Element** tool allows you to select a UI element to display its properties, XAML code, and its position in the Visual Tree.
-
 ### Bugs Fixed
 
 * <a href="https://www.devexpress.com/Support/Center/Question/Details/T754663/theme-designer-the-preview-window-is-corrupted-when-the-custom-theme-name-is">T754663</a> - The preview window is corrupted when the custom theme name is Office2019Colorful.
@@ -26,11 +24,12 @@ This file lists all the notable changes to this project.
 
 ### Enhancements
 
-* The palette color's tooltips added to the CodeView Window's Intelligent Code Completion popup window.
+* A palette color's tooltips added to the CodeView's Intelligent Code Completion popup window.
 
     <img src="media/Changelog/19.2.1-Code-Completion-2x.png" width="50%" alt="Theme Designer 19.1.3 - Code Completion Enhancement"/>
 
 ### Changed
+* The **View in XAML** tool has been replaced with the **Inspect Element** tool. **Inspect Element** allows you to select a UI element to display its properties, XAML code, and its position in the Visual Tree.
 
 * The **Filter Colors** tool now displays only the colors the **selected element and its children** uses. You can use the Inspect Element tool or the **Visual Tree Window** to select an element.
 
@@ -41,9 +40,6 @@ This file lists all the notable changes to this project.
 * The **Reset Layout** tool has been moved to the 'Home' ribbon tab.
 * The **Views** ribbon tab has been converted to the drop-down button and moved to the 'Home' ribbon tab.
 
-### Removed
-
-* **View in XAML** tool is removed.
 
 ## Theme Designer 19.1.4 - 2019-05-27
 
