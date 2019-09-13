@@ -33,7 +33,7 @@ This file lists all the notable changes to this project.
 
 * The **Filter Colors** tool now displays only the colors the **selected element and its children** uses. You can use the Inspect Element tool or the **Visual Tree Window** to select an element.
 
-* Theme Designer now uses the Ribbon's Simplified mode.
+* The Theme Designer now uses the Ribbon's Simplified mode.
 
     <img src="media/Changelog/19.2.1-Simplified-Ribbon-2x.png" width="50%" alt="Theme Designer 19.1.3 - Ribbon Simplified Mode"/>
 
