@@ -5,7 +5,7 @@ This file lists all the notable changes to this project.
 
 ### New Features
 
-* The [Visual Tree Window](http://docs.devexpress.com/WpfThemeDesigner/401169/workspace/visual-tree-window) displays the current preview's visual element structure.
+* The [Visual Tree Window](http://docs.devexpress.com/WpfThemeDesigner/401169/workspace/visual-tree-window) displays the preview's visual element structure.
 
     <img src="media/Changelog/19.2.1-VisualTree-2x.png" width="50%" alt="Theme Designer 19.1.3 - Visual Tree Window"/>
 
@@ -14,13 +14,6 @@ This file lists all the notable changes to this project.
     <img src="media/Changelog/19.2.1-Properties-2x.png" width="50%" alt="Theme Designer 19.1.3 - Properties Window"/>
 
 * The **Ignore System DPI** tool ignores the system's scaling value and displays the preview with 100% scale. 
-
-### Bugs Fixed
-
-* <a href="https://www.devexpress.com/Support/Center/Question/Details/T754663/theme-designer-the-preview-window-is-corrupted-when-the-custom-theme-name-is">T754663</a> - The preview window is corrupted when the custom theme name is Office2019Colorful.
-
-
-* <a href="https://www.devexpress.com/Support/Center/Question/Details/T719715/theme-designer-preview-is-empty-in-certain-cases">T719715</a> - Theme Designer Preview is empty in certain cases.
 
 ### Enhancements
 
@@ -51,7 +44,7 @@ This file lists all the notable changes to this project.
 
 ### Changes
 
-* The 'Palettes' button in the Palette ribbon tab is renamed to 'Import'.
+* The 'Palettes' button in the Palette ribbon tab was renamed to 'Import'.
 
     <img src="media/Changelog/19.1.3-Ribbon-Palette-Tab-2x.png" width="50%" alt="Theme Designer 19.1.3 - Ribbon Palette Tab"/>
 
