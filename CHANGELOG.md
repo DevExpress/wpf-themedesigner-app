@@ -1,5 +1,5 @@
 # Changelog
-This file lists all the notable changes to this project.
+This file lists the important changes to this project.
 
 ## Theme Designer 19.2.1 - 2019-12-09
 
