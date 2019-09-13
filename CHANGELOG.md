@@ -37,7 +37,7 @@ This file lists all the notable changes to this project.
 
     <img src="media/Changelog/19.2.1-Simplified-Ribbon-2x.png" width="50%" alt="Theme Designer 19.1.3 - Ribbon Simplified Mode"/>
 
-* The **Reset Layout** tool has been moved to the 'Home' ribbon tab.
+* The **Reset Layout** tool was moved to the 'Home' ribbon tab.
 * The **Views** ribbon tab was converted to a drop-down button and moved to the 'Home' ribbon tab.
 
 
