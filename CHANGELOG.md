@@ -29,7 +29,7 @@ This file lists all the notable changes to this project.
     <img src="media/Changelog/19.2.1-Code-Completion-2x.png" width="50%" alt="Theme Designer 19.1.3 - Code Completion Enhancement"/>
 
 ### Changed
-* The **View in XAML** tool has been replaced with the **Inspect Element** tool. **Inspect Element** allows you to select a UI element to display its properties, XAML code, and its position in the Visual Tree.
+* The **View in XAML** tool was replaced with the **Inspect Element** tool. **Inspect Element** allows you to select a UI element and display its properties, XAML code, and position in the Visual Tree.
 
 * The **Filter Colors** tool now displays only the colors the **selected element and its children** uses. You can use the Inspect Element tool or the **Visual Tree Window** to select an element.
 
