@@ -31,7 +31,7 @@ This file lists all the notable changes to this project.
 ### Changed
 * The **View in XAML** tool was replaced with the **Inspect Element** tool. **Inspect Element** allows you to select a UI element and display its properties, XAML code, and position in the Visual Tree.
 
-* The **Filter Colors** tool now displays only the colors the **selected element and its children** uses. You can use the Inspect Element tool or the **Visual Tree Window** to select an element.
+* The **Filter Colors** tool now displays only the colors from the **selected element and its children**. You can use the Inspect Element tool or **Visual Tree Window** to select an element.
 
 * The Theme Designer now uses the Ribbon's Simplified mode.
 
