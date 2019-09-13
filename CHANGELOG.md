@@ -24,7 +24,7 @@ This file lists all the notable changes to this project.
 
 ### Enhancements
 
-* A palette color's tooltips added to the CodeView's Intelligent Code Completion popup window.
+* A palette color's tooltips are added to the CodeView's Intelligent Code Completion pop-up window.
 
     <img src="media/Changelog/19.2.1-Code-Completion-2x.png" width="50%" alt="Theme Designer 19.1.3 - Code Completion Enhancement"/>
 
