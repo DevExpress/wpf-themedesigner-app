@@ -1,11 +1,11 @@
 # Changelog
-This file lists all the notable changes to this project.
+This file lists the important changes to this project.
 
 ## Theme Designer 19.2.1 - 2019-12-09
 
 ### New Features
 
-* The [Visual Tree Window](http://docs.devexpress.com/WpfThemeDesigner/401169/workspace/visual-tree-window) displays the current preview's visual element structure.
+* The [Visual Tree Window](http://docs.devexpress.com/WpfThemeDesigner/401169/workspace/visual-tree-window) displays the preview's visual element structure.
 
     <img src="media/Changelog/19.2.1-VisualTree-2x.png" width="50%" alt="Theme Designer 19.1.3 - Visual Tree Window"/>
 
@@ -15,43 +15,36 @@ This file lists all the notable changes to this project.
 
 * The **Ignore System DPI** tool ignores the system's scaling value and displays the preview with 100% scale. 
 
-### Bugs Fixed
-
-* <a href="https://www.devexpress.com/Support/Center/Question/Details/T754663/theme-designer-the-preview-window-is-corrupted-when-the-custom-theme-name-is">T754663</a> - The preview window is corrupted when the custom theme name is Office2019Colorful.
-
-
-* <a href="https://www.devexpress.com/Support/Center/Question/Details/T719715/theme-designer-preview-is-empty-in-certain-cases">T719715</a> - Theme Designer Preview is empty in certain cases.
-
 ### Enhancements
 
-* A palette color's tooltips added to the CodeView's Intelligent Code Completion popup window.
+* A palette color's tooltips are added to the CodeView's Intelligent Code Completion pop-up window.
 
     <img src="media/Changelog/19.2.1-Code-Completion-2x.png" width="50%" alt="Theme Designer 19.1.3 - Code Completion Enhancement"/>
 
 ### Changed
-* The **View in XAML** tool has been replaced with the **Inspect Element** tool. **Inspect Element** allows you to select a UI element to display its properties, XAML code, and its position in the Visual Tree.
+* The **View in XAML** tool was replaced with the **Inspect Element** tool. **Inspect Element** allows you to select a UI element and display its properties, XAML code, and position in the Visual Tree.
 
-* The **Filter Colors** tool now displays only the colors the **selected element and its children** uses. You can use the Inspect Element tool or the **Visual Tree Window** to select an element.
+* The **Filter Colors** tool now displays only the colors from the **selected element and its children**. You can use the Inspect Element tool or **Visual Tree Window** to select an element.
 
-* Theme Designer now uses the Ribbon's Simplified mode.
+* The Theme Designer now uses the Ribbon's Simplified mode.
 
     <img src="media/Changelog/19.2.1-Simplified-Ribbon-2x.png" width="50%" alt="Theme Designer 19.1.3 - Ribbon Simplified Mode"/>
 
-* The **Reset Layout** tool has been moved to the 'Home' ribbon tab.
-* The **Views** ribbon tab has been converted to the drop-down button and moved to the 'Home' ribbon tab.
+* The **Reset Layout** tool was moved to the 'Home' ribbon tab.
+* The **Views** ribbon tab was converted to a drop-down button and moved to the 'Home' ribbon tab.
 
 
 ## Theme Designer 19.1.4 - 2019-05-27
 
 ### Bug Fixes
 
-* <a href="https://www.devexpress.com/Support/Center/Question/Details/T743008/theme-designer-cannot-upgrade-a-theme-because-the-x-namespace-prefix-is-not-defined-in">T743008</a> - Theme Designer cannot upgrade a theme because the 'x' namespace prefix is not defined in certain files.
+* <a href="https://www.devexpress.com/Support/Center/Question/Details/T743008/theme-designer-cannot-upgrade-a-theme-because-the-x-namespace-prefix-is-not-defined-in">T743008</a> - The Theme Designer cannot upgrade a theme because the 'x' namespace prefix is not defined in certain files.
 
 ## Theme Designer 19.1.3 - 2019-05-17
 
 ### Changes
 
-* The 'Palettes' button in the Palette ribbon tab is renamed to 'Import'.
+* The 'Palettes' button in the Palette ribbon tab was renamed to 'Import'.
 
     <img src="media/Changelog/19.1.3-Ribbon-Palette-Tab-2x.png" width="50%" alt="Theme Designer 19.1.3 - Ribbon Palette Tab"/>
 
