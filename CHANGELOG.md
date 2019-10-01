@@ -5,10 +5,9 @@ This file lists the important changes to this project.
 
 ### Bug Fixes
 
-* <a href="https://www.devexpress.com/Support/Center/Question/Details/T754663/theme-designer-the-preview-window-is-corrupted-when-the-custom-theme-name-is">T754663</a> - The preview window is corrupted when the custom theme name is Office2019Colorful
-
 * <a href="https://www.devexpress.com/Support/Center/Question/Details/T816015/show-error-messages-when-the-output-window-is-hidden">T816015</a> - Show error messages when the Output window is hidden
 
+* <a href="https://www.devexpress.com/Support/Center/Question/Details/T719715/theme-designer-preview-is-empty-in-certain-cases">T719715</a> - Theme Designer Preview is empty in certain cases
 
 ## Theme Designer 19.2.1 - 2019-12-09
 
@@ -30,7 +29,11 @@ This file lists the important changes to this project.
 
     <img src="media/Changelog/19.2.1-Code-Completion-2x.png" width="50%" alt="Theme Designer 19.1.3 - Code Completion Enhancement"/>
 
-### Changed
+### Bug Fixes
+
+* <a href="https://www.devexpress.com/Support/Center/Question/Details/T754663/theme-designer-the-preview-window-is-corrupted-when-the-custom-theme-name-is">T754663</a> - The preview window is corrupted when the custom theme name is Office2019Colorful
+
+### Changes
 * The **View in XAML** tool was replaced with the **Inspect Element** tool. **Inspect Element** allows you to select a UI element and display its properties, XAML code, and position in the Visual Tree.
 
 * The **Filter Colors** tool now displays only the colors from the **selected element and its children**. You can use the Inspect Element tool or **Visual Tree Window** to select an element.
