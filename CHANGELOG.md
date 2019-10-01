@@ -1,6 +1,15 @@
 # Changelog
 This file lists the important changes to this project.
 
+## Theme Designer 19.2.2 - 2019-01-10
+
+### Bug Fixes
+
+* <a href="https://www.devexpress.com/Support/Center/Question/Details/T754663/theme-designer-the-preview-window-is-corrupted-when-the-custom-theme-name-is">T754663</a> - The preview window is corrupted when the custom theme name is Office2019Colorful
+
+* <a href="https://www.devexpress.com/Support/Center/Question/Details/T816015/show-error-messages-when-the-output-window-is-hidden">T816015</a> - Show error messages when the Output window is hidden
+
+
 ## Theme Designer 19.2.1 - 2019-12-09
 
 ### New Features
