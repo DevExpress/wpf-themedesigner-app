@@ -10,7 +10,6 @@ This file lists the important changes to this project.
 * <a href="https://www.devexpress.com/Support/Center/Question/Details/T719715/theme-designer-preview-is-empty-in-certain-cases">T719715</a> - Theme Designer shows an empty preview in certain cases
 
 ## Theme Designer 19.2.1 - 2019-12-09
-=======
 
 ### New Features
 
