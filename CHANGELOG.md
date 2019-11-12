@@ -1,6 +1,12 @@
 # Changelog
 This file lists the important changes to this project.
 
+## Theme Designer 19.2.3 - 2019-12-11
+### Bug Fixes
+
+* <a href="https://www.devexpress.com/Support/Center/Question/Details/T830995/themedesigner-does-not-launch-the-complex-preview">T830995</a> - ThemeDesigner does not launch the complex preview
+
+
 ## Theme Designer 19.2.2 - 2019-01-10
 
 ### Bug Fixes
