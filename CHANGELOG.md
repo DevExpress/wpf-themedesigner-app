@@ -4,7 +4,7 @@ This file lists the important changes to this project.
 ## Theme Designer 19.2.4 - 2019-25-11
 ### Bug Fixes
 
-* <a href="https://www.devexpress.com/Support/Center/Question/Details/T834005/the-wpf-theme-designer-preview-is-not-displayed-if-the-target-version-is-17-2">T834005</a> - The WPF Theme Designer preview is not displayed if the target version is 17.2 
+* <a href="https://www.devexpress.com/Support/Center/Question/Details/t835710/the-wpf-theme-designer-preview-is-not-displayed-if-the-target-version-is-17-2">t835710</a> - The WPF Theme Designer preview is not displayed if the target version is 17.2 
 
 
 ## Theme Designer 19.2.3 - 2019-12-11
