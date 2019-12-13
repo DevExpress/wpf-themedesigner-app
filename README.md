@@ -35,6 +35,8 @@ The DevExpress WPF Theme Designer was designed to reduce the grunt work associat
 
 * [Import. Export. Share.](https://docs.devexpress.com/WpfThemeDesigner/118787/build-and-export-new-themes) <br/> The WPF Theme Designer ships with multiple options to save modified themes and retain them for later use. New themes can be built as assemblies or saved to a *.tdsln file. All changes made to individual color schemes remain consistent whenever you upgrade to a newer version of DevExpress WPF Controls.
 
+* [Visual Tree](https://docs.devexpress.com/WpfThemeDesigner/401169/workspace/visual-tree-window) <br/> The Visual Tree Window displays the current preview's visual element structure. You can find a UI element with the built-in Search bar or navigate to the element's XAML.
+
 * [Command Line Interface](https://docs.devexpress.com/WpfThemeDesigner/401518/command-line) <br/> The Theme Designer Command Line Interface (CLI) allows you to clone and export theme solutions. You can use the CLI on a build server and then build the theme solution with [msbuild](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild).
 
 ## Getting Started
