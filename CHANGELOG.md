@@ -1,6 +1,15 @@
 # Changelog
 This file lists the important changes to this project.
 
+## Theme Designer 19.2.5 - 2019-16-12
+=======
+
+### New Features
+
+* Command Line Interface (CLI) allows you to clone and export theme solutions. You can use the CLI on a build server and then build the theme solution with [msbuild](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild).
+
+    Refer to the <a href="https://docs.devexpress.com/WpfThemeDesigner/401518/command-line">Command Line Interface</a> topic for more information.
+
 ## Theme Designer 19.2.4 - 2019-25-11
 ### Bug Fixes
 
