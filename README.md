@@ -17,6 +17,7 @@
 * [Overview](#overview)
 * [Features](#features)
 * [Getting Started](#getting-started)
+* [.NET Core 3 Support](#net-core-3-support)
 * [Get Help](#get-help)
 
 ## Overview
