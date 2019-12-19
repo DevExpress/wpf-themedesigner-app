@@ -9,6 +9,11 @@ This file lists the important changes to this project.
 
     Refer to the <a href="https://docs.devexpress.com/WpfThemeDesigner/401518/command-line">Command Line Interface</a> topic for more information.
 
+### Bug Fixes
+
+* <a href="https://www.devexpress.com/Support/Center/Question/Details/T822190/the-unable-to-load-one-or-more-of-the-requested-types-exception-is-thrown-when-building">T822190</a> - The "Unable to load one or more of the requested types" exception is thrown when building a theme using MSBuild
+
+
 ## Theme Designer 19.2.4 - 2019-25-11
 ### Bug Fixes
 
