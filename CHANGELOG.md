@@ -1,7 +1,7 @@
 # Changelog
 This file lists the important changes to this project.
 
-## Theme Designer 19.2.5 - 2019-16-12
+## Theme Designer 19.2.5 - 2019-20-12
 
 ### New Features
 
