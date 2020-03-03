@@ -1,5 +1,18 @@
 # Changelog
 This file lists the important changes to this project.
+## Theme Designer 20.1.1 - 2020-06-03
+
+### New Features
+
+* CodeView - context menu includes Cut, Copy, and Paste commands.
+
+### Changes
+
+* The Theme Designer now targets the .NET Framework 4.8. 
+
+### Enhancements
+
+* Incremental build performance enhanced.
 
 ## Theme Designer 19.2.5 - 2019-20-12
 
@@ -66,13 +79,13 @@ This file lists the important changes to this project.
 * The **Views** ribbon tab was converted to a drop-down button and moved to the 'Home' ribbon tab.
 
 
-## Theme Designer 19.1.4 - 2019-05-27
+## Theme Designer 19.1.4 - 2019-27-05
 
 ### Bug Fixes
 
 * <a href="https://www.devexpress.com/Support/Center/Question/Details/T743008/theme-designer-cannot-upgrade-a-theme-because-the-x-namespace-prefix-is-not-defined-in">T743008</a> - The Theme Designer cannot upgrade a theme because the 'x' namespace prefix is not defined in certain files.
 
-## Theme Designer 19.1.3 - 2019-05-17
+## Theme Designer 19.1.3 - 2019-17-05
 
 ### Changes
 
@@ -84,7 +97,7 @@ This file lists the important changes to this project.
 
 * Internal enhancements and bug fixes.
 
-## Theme Designer 19.1.2 - 2019-04-26
+## Theme Designer 19.1.2 - 2019-26-04
 
 ### New Features
 
@@ -99,7 +112,7 @@ This file lists the important changes to this project.
     <img src="media/Changelog/19.1.2-Ribbon-2x-Palettes.png" width="50%" alt="Theme Designer 19.1.2 - Predefined Palette List"/>
 
     
-## Theme Designer 19.1.1 - 2019-03-22
+## Theme Designer 19.1.1 - 2019-22-03
 
 
 ### New Features
