@@ -9,7 +9,7 @@ This file lists the important changes to this project.
 ### Changes
 
 * The Theme Designer now targets the .NET Framework 4.8. 
-* The Theme Designer uses the MSBuild 16.4.
+* The MSBuild updated to the v16.4.
 
 ### Enhancements
 
