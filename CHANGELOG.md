@@ -1,5 +1,14 @@
 # Changelog
 This file lists the important changes to this project.
+## Theme Designer 20.1.2 - 2020-07-04
+### Bug Fixes
+* <a href="https://supportcenter.devexpress.com/internal/ticket/details/T862806">T862806</a> - Make it possible to export a theme when DevExpress components are not installed
+
+### Changes
+
+* Theme Designer now supports DevExpress Visual Studio 2019 themes.
+
+
 ## Theme Designer 20.1.1 - 2020-06-03
 
 ### New Features
