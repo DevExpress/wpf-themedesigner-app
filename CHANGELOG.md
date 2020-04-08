@@ -1,6 +1,6 @@
 # Changelog
 This file lists the important changes to this project.
-## Theme Designer 20.1.2 - 2020-07-04
+## Theme Designer 20.1.2 - 2020-08-04
 ### Bug Fixes
 * <a href="https://supportcenter.devexpress.com/internal/ticket/details/T862806">T862806</a> - Make it possible to export a theme when DevExpress components are not installed
 
