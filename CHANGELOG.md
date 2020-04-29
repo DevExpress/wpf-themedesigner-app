@@ -1,7 +1,7 @@
 # Changelog
 This file lists the important changes to this project.
 
-## Theme Designer 20.1.3 - 2020-28-04
+## Theme Designer 20.1.3 - 2020-29-04
 Bugs fixes and miscellaneous enhancements.
 
 ## Theme Designer 20.1.2 - 2020-09-04
