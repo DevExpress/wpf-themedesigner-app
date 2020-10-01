@@ -4,7 +4,7 @@ This file lists the important changes to this project.
 ## Theme Designer 20.2.1 - 2020-01-10
 ### Enhancements
 
-* Theme Designer now supports the new DevExpress <a href="https://docs.devexpress.com/WPF/7407/common-concepts/themes/theme-list?v=20.2#windows-10-themes">Win10Light</a> theme. and Visual Studio 2019 <a href="http://docs.devexpress.devx/WPF/400728/common-concepts/themes/palettes?v=20.2#predefined-palettes">Palettes</a>.
+Theme Designer now supports the new DevExpress <a href="https://docs.devexpress.com/WPF/7407/common-concepts/themes/theme-list?v=20.2#windows-10-themes">Win10Light</a> theme and Visual Studio 2019 <a href="http://docs.devexpress.devx/WPF/400728/common-concepts/themes/palettes?v=20.2#predefined-palettes">Palettes</a>.
 
 ## Theme Designer 20.1.3 - 2020-28-04
 Bugs fixes and miscellaneous enhancements.
