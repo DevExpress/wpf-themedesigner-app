@@ -1,5 +1,9 @@
 # Changelog
 This file lists the important changes to this project.
+## Theme Designer 21.1.1 - 2021-21-04
+### Bug Fixes
+* <a href="https://supportcenter.devexpress.com/internal/ticket/details/T939497">T939497</a> - Theme Designer cannot open a theme after an upgrade if certain files are read-only 
+
 
 ## Theme Designer 20.2.1 - 2020-01-10
 ### Enhancements
