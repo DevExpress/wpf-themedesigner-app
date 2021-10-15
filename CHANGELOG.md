@@ -1,6 +1,11 @@
 # Changelog
 This file lists the important changes to this project.
 
+## Theme Designer 21.2.1 - 2021-15-10
+### Enhancements
+
+Theme Designer now supports the new DevExpress <a href="https://docs.devexpress.com/WPF/7407/common-concepts/themes/theme-list?v=21.2#windows-10-themes">Win10Dark</a> theme and Enhanced Contrast <a href="http://docs.devexpress.devx/WPF/400728/common-concepts/themes/palettes?v=21.2#predefined-palettes">palettes</a> for [Office 2016 SE](https://docs.devexpress.com/WPF/7407/common-concepts/themes/theme-list?v=21.2#office-2016-se-themes), [Visual Studio 2017](https://docs.devexpress.com/WPF/7407/common-concepts/themes/theme-list?v=21.2#visual-studio-2017-themes), [Office 2019](https://docs.devexpress.com/WPF/7407/common-concepts/themes/theme-list?v=21.2#office-2019-themes), and [Visual Studio 2019](https://docs.devexpress.com/WPF/7407/common-concepts/themes/theme-list?v=21.2#visual-studio-2019-themes)	DevExpress Themes.
+
 ## Theme Designer 21.1.2 - 2021-28-07
 ### Changes
 
