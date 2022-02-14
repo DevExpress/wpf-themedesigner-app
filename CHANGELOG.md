@@ -1,6 +1,10 @@
 # Changelog
 This file lists the important changes to this project.
 
+## Theme Designer 21.2.2 - 2022-14-02
+### Bug Fixes
+* <a href="https://supportcenter.devexpress.com/ticket/details/T1062507">T1062507</a> - Images in a sub-folder in the Source directory become broken after upgrading a theme
+
 ## Theme Designer 21.2.1 - 2021-15-10
 ### Enhancements
 
@@ -12,13 +16,13 @@ Theme Designer now supports the new DevExpress <a href="https://docs.devexpress.
 The MSBuild updated to the v16.10.
  
 ### Bug Fixes
-* <a href="https://supportcenter.devexpress.com/internal/ticket/details/T1016630">T1016630</a> - tdcli.exe generates faulty source code 
-* <a href="https://supportcenter.devexpress.com/internal/ticket/details/T1001880">T1001880</a> - Theme Designer cannot build a theme when Directory.Build.props contains LangVersion=9
+* <a href="https://supportcenter.devexpress.com/ticket/details/T1016630">T1016630</a> - tdcli.exe generates faulty source code 
+* <a href="https://supportcenter.devexpress.com/ticket/details/T1001880">T1001880</a> - Theme Designer cannot build a theme when Directory.Build.props contains LangVersion=9
 
 
 ## Theme Designer 21.1.1 - 2021-21-04
 ### Bug Fixes
-* <a href="https://supportcenter.devexpress.com/internal/ticket/details/T939497">T939497</a> - Theme Designer cannot open a theme after an upgrade if certain files are read-only 
+* <a href="https://supportcenter.devexpress.com/ticket/details/T939497">T939497</a> - Theme Designer cannot open a theme after an upgrade if certain files are read-only 
 
 
 ## Theme Designer 20.2.1 - 2020-01-10
@@ -31,7 +35,7 @@ Bugs fixes and miscellaneous enhancements.
 
 ## Theme Designer 20.1.2 - 2020-09-04
 ### Bug Fixes
-* <a href="https://supportcenter.devexpress.com/internal/ticket/details/T862806">T862806</a> - Make it possible to export a theme when DevExpress components are not installed
+* <a href="https://supportcenter.devexpress.com/ticket/details/T862806">T862806</a> - Make it possible to export a theme when DevExpress components are not installed
 
 ### Enhancements
 
