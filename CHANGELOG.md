@@ -1,6 +1,12 @@
 # Changelog
 This file lists the important changes to this project.
 
+## Theme Designer 22.1.1 - 2022-28-05
+### Enhancements
+Theme Designer now supports the new DevExpress <a href="https://docs.devexpress.com/WPF/7407/common-concepts/themes/theme-list?v=22.1#windows-11-themes">Win11Light</a> theme.
+### Bug Fixes
+* <a href="https://supportcenter.devexpress.com/ticket/details/T1081125">T1081125</a> - Theme Designer cannot open previews for PropertyGridControl in themes created for old DevExpress versions.
+
 ## Theme Designer 21.2.2 - 2022-14-02
 ### Bug Fixes
 * <a href="https://supportcenter.devexpress.com/ticket/details/T1062507">T1062507</a> - Images in a sub-folder in the Source directory become broken after upgrading a theme
