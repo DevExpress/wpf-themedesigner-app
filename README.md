@@ -17,7 +17,7 @@
 * [Overview](#overview)
 * [Features](#features)
 * [Getting Started](#getting-started)
-* [.NET Core 3 Support](#net-core-3-support)
+* [.NET/.NET Core Support](#netnet-core-support)
 * [Get Help](#get-help)
 
 ## Overview
@@ -44,9 +44,9 @@ The DevExpress WPF Theme Designer was designed to reduce the grunt work associat
 
 Download and install the WPF Theme Designer, then [get started](https://docs.devexpress.com/WpfThemeDesigner/118594/getting-started).
 
-## .NET Core 3 Support
+## .NET/.NET Core Support
 
-The Theme Designer requires DevExpress WPF Controls for the .NET Framework to create a custom theme for .NET Core applications. Refer to the [.NET Core 3 Support](https://docs.devexpress.com/WpfThemeDesigner/401520/net-core-support) help topic for more information.
+The Theme Designer requires DevExpress WPF Controls for the .NET Framework to create a custom theme for .NET applications. Refer to the [.NET/.NET Core Support](https://docs.devexpress.com/WpfThemeDesigner/401520/net-core-support) help topic for more information.
 
 ## Get Help
 
