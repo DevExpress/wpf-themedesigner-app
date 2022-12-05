@@ -1,6 +1,12 @@
 # Changelog
 This file lists the important changes to this project.
 
+## Theme Designer 22.2.1 - 2022-07-12
+### Enhancements
+Theme Designer now supports the new DevExpress <a href="https://docs.devexpress.com/WPF/7407/common-concepts/themes/theme-list?v=22.1#windows-11-themes">Win11Dark</a> theme.
+### Bug Fixes
+* <a href="https://supportcenter.devexpress.com/ticket/details/T1128495">T1128495</a> - Theme Designer crashes on an attempt to click in its visual elements.
+
 ## Theme Designer 22.1.1 - 2022-28-05
 ### Enhancements
 Theme Designer now supports the new DevExpress <a href="https://docs.devexpress.com/WPF/7407/common-concepts/themes/theme-list?v=22.1#windows-11-themes">Win11Light</a> theme.
