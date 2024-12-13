@@ -1,6 +1,10 @@
 # Changelog
 This file lists the important changes to this project.
 
+## Theme Designer 24.2.1 - 2024-12-13
+
+WPF Components v24.2 supported.
+
 ## Theme Designer 22.2.1 - 2022-12-12
 ### Enhancements
 Theme Designer now supports the new DevExpress <a href="https://docs.devexpress.com/WPF/7407/common-concepts/themes/theme-list?v=22.2#windows-11-themes">Win11Dark</a> theme.
