@@ -1,8 +1,11 @@
 # Changelog
 This file lists the important changes to this project.
 
-## Theme Designer 24.2.1 - 2024-12-13
+## Theme Designer 24.2.2 - 2025-03-4
+### Bug Fixes
+[T1280070](https://supportcenter.devexpress.com/ticket/details/T1280070) - "Access to the path denied" exception occurs when Theme Designer tries to upgrade a theme
 
+## Theme Designer 24.2.1 - 2024-12-13
 WPF Components v24.2 supported.
 
 ## Theme Designer 22.2.1 - 2022-12-12
